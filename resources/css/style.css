@@ -1,0 +1,17 @@
+body {
+    text-align: center;
+    background-color: black;
+    color: white;
+    /* update font at some point */
+}
+
+/* Top title of page "Discover hidden places..." */
+h1 {
+    font-size: 50px;
+    font-weight: normal;
+}
+
+.cta {
+    color:aquamarine;
+    font-size: 16px;
+}
