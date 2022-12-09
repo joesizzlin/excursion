@@ -1,17 +1,29 @@
+/* elements */
 body {
     text-align: center;
     background-color: black;
     color: white;
-    /* update font at some point */
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
-/* Top title of page "Discover hidden places..." */
 h1 {
     font-size: 50px;
     font-weight: normal;
 }
 
+h2 {
+    font-size: 42px;
+    font-weight: 300;
+}
+
+p {
+    font-size: 21px;
+    color: gray;
+}
+
+
+/* classes */
 .cta {
-    color:aquamarine;
     font-size: 16px;
+    color:aquamarine;
 }
